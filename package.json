@@ -1,0 +1,17 @@
+{
+  "name": "grenache-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.8",
+    "grenache-nodejs-link": "^0.7.12",
+    "lodash": "^4.17.20"
+  }
+}
